@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\arm7Table.xnb</Output>
-      <Time>2013-04-01T22:55:59.3711365-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\arm7Table.xnb</Output>
+      <Time>2013-04-01T23:29:12.4601347-06:00</Time>
     </Item>
     <Item>
       <Source>Cap1.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\Cap1.xnb</Output>
-      <Time>2013-04-01T22:55:59.3721366-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\Cap1.xnb</Output>
+      <Time>2013-04-01T23:29:12.4601347-06:00</Time>
     </Item>
     <Item>
       <Source>chip.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\chip.xnb</Output>
-      <Time>2013-04-01T22:55:59.3731366-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\chip.xnb</Output>
+      <Time>2013-04-01T23:29:12.4611348-06:00</Time>
     </Item>
     <Item>
       <Source>fan copy.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\fan copy.xnb</Output>
-      <Time>2013-04-01T22:55:59.3731366-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\fan copy.xnb</Output>
+      <Time>2013-04-01T23:29:12.4621348-06:00</Time>
     </Item>
     <Item>
       <Source>fan.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\fan.xnb</Output>
-      <Time>2013-04-01T22:55:59.3741367-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\fan.xnb</Output>
+      <Time>2013-04-01T23:29:12.4621348-06:00</Time>
     </Item>
     <Item>
       <Source>fanlight.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\fanlight.xnb</Output>
-      <Time>2013-04-01T22:55:59.3751368-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\fanlight.xnb</Output>
+      <Time>2013-04-01T23:29:12.4631349-06:00</Time>
     </Item>
     <Item>
       <Source>HD.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\HD.xnb</Output>
-      <Time>2013-04-01T22:55:59.3781369-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\HD.xnb</Output>
+      <Time>2013-04-01T23:29:12.466135-06:00</Time>
     </Item>
     <Item>
       <Source>leftBumper1.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\leftBumper1.xnb</Output>
-      <Time>2013-04-01T22:55:59.3781369-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\leftBumper1.xnb</Output>
+      <Time>2013-04-01T23:29:12.4671351-06:00</Time>
     </Item>
     <Item>
       <Source>lFlip.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\lFlip.xnb</Output>
-      <Time>2013-04-01T22:55:59.379137-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\lFlip.xnb</Output>
+      <Time>2013-04-01T23:29:12.4671351-06:00</Time>
     </Item>
     <Item>
       <Source>pinBall.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\pinBall.xnb</Output>
-      <Time>2013-04-01T22:55:59.380137-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\pinBall.xnb</Output>
+      <Time>2013-04-01T23:29:12.4681352-06:00</Time>
     </Item>
     <Item>
       <Source>rightBumper1.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\rightBumper1.xnb</Output>
-      <Time>2013-04-01T22:55:59.3811371-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\rightBumper1.xnb</Output>
+      <Time>2013-04-01T23:29:12.4691352-06:00</Time>
     </Item>
     <Item>
       <Source>roundBumper01.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper01.xnb</Output>
-      <Time>2013-04-01T22:55:59.3821372-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper01.xnb</Output>
+      <Time>2013-04-01T23:29:12.4711353-06:00</Time>
     </Item>
     <Item>
       <Source>roundBumper02.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper02.xnb</Output>
-      <Time>2013-04-01T22:55:59.3831372-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper02.xnb</Output>
+      <Time>2013-04-01T23:29:12.4711353-06:00</Time>
     </Item>
     <Item>
       <Source>roundBumper03.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper03.xnb</Output>
-      <Time>2013-04-01T22:55:59.3841373-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\roundBumper03.xnb</Output>
+      <Time>2013-04-01T23:29:12.4721354-06:00</Time>
     </Item>
     <Item>
       <Source>feeble.wav</Source>
@@ -133,8 +133,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\feeble.xnb</Output>
-      <Time>2013-04-01T22:55:59.3761368-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\feeble.xnb</Output>
+      <Time>2013-04-01T23:29:12.4641349-06:00</Time>
     </Item>
     <Item>
       <Source>flip.wav</Source>
@@ -142,8 +142,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\flip.xnb</Output>
-      <Time>2013-04-01T22:55:59.3771369-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\flip.xnb</Output>
+      <Time>2013-04-01T23:29:12.465135-06:00</Time>
     </Item>
     <Item>
       <Source>game_over.wav</Source>
@@ -151,8 +151,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\game_over.xnb</Output>
-      <Time>2013-04-01T22:55:59.3771369-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\game_over.xnb</Output>
+      <Time>2013-04-01T23:29:12.465135-06:00</Time>
     </Item>
     <Item>
       <Source>rebound.wav</Source>
@@ -160,8 +160,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\rebound.xnb</Output>
-      <Time>2013-04-01T22:55:59.380137-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\rebound.xnb</Output>
+      <Time>2013-04-01T23:29:12.4681352-06:00</Time>
     </Item>
     <Item>
       <Source>rolling.wav</Source>
@@ -169,8 +169,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\rolling.xnb</Output>
-      <Time>2013-04-01T22:55:59.3821372-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\rolling.xnb</Output>
+      <Time>2013-04-01T23:29:12.4701353-06:00</Time>
     </Item>
     <Item>
       <Source>Shayef_Nafsak.mp3</Source>
@@ -178,9 +178,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\Shayef_Nafsak.xnb</Output>
-      <Extra>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\Shayef_Nafsak.wma</Extra>
-      <Time>2013-04-01T22:55:59.3861374-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\Shayef_Nafsak.xnb</Output>
+      <Extra>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\Shayef_Nafsak.wma</Extra>
+      <Time>2013-04-01T23:29:12.4751356-06:00</Time>
     </Item>
     <Item>
       <Source>SpriteFont1.spritefont</Source>
@@ -188,8 +188,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2013-04-01T22:56:55.4463439-06:00</Time>
+      <Output>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-04-01T23:29:12.5031372-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -197,10 +197,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\PinballContent\</RootDirectory>
-      <LoggerRootDirectory>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\</LoggerRootDirectory>
-      <IntermediateDirectory>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\PinballContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\Pinball\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>E:\Users\Josh\Documents\GitHub\pinball\Pinball\PinballContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Users\Josh\Documents\GitHub\pinball\Pinball\PinballContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Users\Josh\Documents\GitHub\pinball\Pinball\Pinball\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

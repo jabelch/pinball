@@ -1,1 +1,2 @@
 e:\Users\Josh\Documents\Visual Studio 2010\Projects\Pinball\Pinball\PinballContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Josh\Documents\GitHub\pinball\Pinball\PinballContent\obj\x86\Debug\ResolveAssemblyReference.cache
