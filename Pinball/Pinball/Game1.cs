@@ -81,7 +81,7 @@ namespace Project03
 		protected override void Update(GameTime gameTime)
 		{
             
-            if (MediaPlayer.PlayPosition.TotalSeconds == 25)
+            if (MediaPlayer.PlayPosition.TotalSeconds >= 25)
             {
                 MediaPlayer.Stop();
                 MediaPlayer.Play(song);
