@@ -23,7 +23,7 @@ namespace Project03
 		SpriteBatch spriteBatch;
 		Table table;
         Texture2D TABLE;
-		//Song song;
+		Song song;
 
 		public Game1()
 		{
@@ -59,8 +59,8 @@ namespace Project03
             // Since we don't call base class with constructor, we must initialize those member variables.
 
 			table.LoadContent();
-			//song = Content.Load<Song>("Shayef_Nafsak");
-			//MediaPlayer.Play(song);
+            song = Content.Load<Song>("Shayef_Nafsak");
+            MediaPlayer.Play(song);
 
 			
 		}
@@ -80,13 +80,13 @@ namespace Project03
 		/// <param name="gameTime">Provides a snapshot of timing values.</param>
 		protected override void Update(GameTime gameTime)
 		{
-			/*
-			if (MediaPlayer.PlayPosition.TotalSeconds == 25)
-			{
-				MediaPlayer.Stop();
-				MediaPlayer.Play(song);
-			}
-			 * */
+            
+            if (MediaPlayer.PlayPosition.TotalSeconds == 25)
+            {
+                MediaPlayer.Stop();
+                MediaPlayer.Play(song);
+            }
+            
 			// Allows the game to exit
 			if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
 				this.Exit();
